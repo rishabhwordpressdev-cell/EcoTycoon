@@ -1,0 +1,7 @@
+-r requirements.txt
+shap>=0.45
+elapid>=1.0
+torch>=2.5
+earthengine-api>=1.4
+geopandas>=1.0
+rasterio>=1.4
